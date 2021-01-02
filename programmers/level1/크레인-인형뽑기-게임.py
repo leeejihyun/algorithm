@@ -9,16 +9,20 @@ def solution(board, moves):
 
     answer = 0
     prior_doll = 0
+    idx = 0
     for doll in basket[:]:
         if doll == prior_doll:
             answer += 2
-            prior_doll_index = basket.index(doll) - 1
-            if prior_doll_index >= 0:
-                prior_doll = basket[prior_doll_index]
+            prior_doll_idx = idx - 2
+            if prior_doll_idx >= 0:
+                prior_doll = basket[prior_doll_idx]
             else:
                 prior_doll = 0
-            basket.remove(doll)
-            basket.remove(doll)
+            del basket[idx]
+            del basket[idx-1]
+            idx -= 2
         else:
             prior_doll = doll
+        idx += 1
+
     return answer
