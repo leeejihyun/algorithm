@@ -10,4 +10,4 @@
 * 두 개 뽑아서 더하기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/programmers/level1/%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0.py), [블로그](https://leeejihyun.tistory.com/8)
 * 완주하지 못한 선수 - [코드](https://github.com/leeejihyun/algorithm/blob/main/programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98.py), [블로그](https://leeejihyun.tistory.com/10)
 * 모의고사 - [코드](https://github.com/leeejihyun/algorithm/blob/main/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py), [블로그](https://leeejihyun.tistory.com/11)
-* K번째수 - [코드](https://github.com/leeejihyun/algorithm/blob/main/programmers/level1/K%EB%B2%88%EC%A7%B8%EC%88%98.py)
+* K번째수 - [코드](https://github.com/leeejihyun/algorithm/blob/main/programmers/level1/K%EB%B2%88%EC%A7%B8%EC%88%98.py), [블로그](https://leeejihyun.tistory.com/31)
