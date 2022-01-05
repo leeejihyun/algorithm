@@ -19,3 +19,4 @@
 * 큰 수의 법칙 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter03/%ED%81%B0-%EC%88%98%EC%9D%98-%EB%B2%95%EC%B9%99.py), [블로그](https://leeejihyun.tistory.com/38)
 * 숫자 카드 게임 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter03/%EC%88%AB%EC%9E%90-%EC%B9%B4%EB%93%9C-%EA%B2%8C%EC%9E%84.py), [블로그](https://leeejihyun.tistory.com/40)
 * 1이 될 때까지 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter03/1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80.py), [블로그](https://leeejihyun.tistory.com/41)
+* 상하좌우 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py), [블로그](https://leeejihyun.tistory.com/42)
