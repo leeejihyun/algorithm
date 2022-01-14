@@ -22,3 +22,4 @@
 #### CHAPTER 04 구현
 * 상하좌우 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py), [블로그](https://leeejihyun.tistory.com/42)
 * 시각 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%8B%9C%EA%B0%81.py), [블로그](https://leeejihyun.tistory.com/43)
+* 왕실의 나이트 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8.py), [블로그](https://leeejihyun.tistory.com/44)
