@@ -24,3 +24,12 @@
 * 시각 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%8B%9C%EA%B0%81.py), [블로그](https://leeejihyun.tistory.com/43)
 * 왕실의 나이트 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8.py), [블로그](https://leeejihyun.tistory.com/44)
 * 게임 개발 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C.py), [블로그](https://leeejihyun.tistory.com/45)
+#### CHAPTER 05 DFS/BFS
+* 음료수 얼려 먹기 - [코드]
+* 미로 탈출 - [코드]
+#### CHAPTER 06 정렬
+* 위에서 아래로 - [코드]
+* 성적이 낮은 순서로 학생 출력하기 - [코드]
+* 두 배열의 원소 교체 - [코드]
+#### CHAPTER 07 이진 탐색
+* 부품 찾기 - [코드]
