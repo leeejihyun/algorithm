@@ -25,11 +25,11 @@
 * 왕실의 나이트 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8.py), [블로그](https://leeejihyun.tistory.com/44)
 * 게임 개발 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter04/%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C.py), [블로그](https://leeejihyun.tistory.com/45)
 #### CHAPTER 05 DFS/BFS
-* 음료수 얼려 먹기 - [코드]
-* 미로 탈출 - [코드]
+* 음료수 얼려 먹기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter05/%EC%9D%8C%EB%A3%8C%EC%88%98-%EC%96%BC%EB%A0%A4-%EB%A8%B9%EA%B8%B0.py)
+* 미로 탈출 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter05/%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C.py)
 #### CHAPTER 06 정렬
-* 위에서 아래로 - [코드]
-* 성적이 낮은 순서로 학생 출력하기 - [코드]
-* 두 배열의 원소 교체 - [코드]
+* 위에서 아래로 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter06/%EC%9C%84%EC%97%90%EC%84%9C-%EC%95%84%EB%9E%98%EB%A1%9C.py)
+* 성적이 낮은 순서로 학생 출력하기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter06/%EC%84%B1%EC%A0%81%EC%9D%B4-%EB%82%AE%EC%9D%80-%EC%88%9C%EC%84%9C%EB%A1%9C-%ED%95%99%EC%83%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
+* 두 배열의 원소 교체 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter06/%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C-%EA%B5%90%EC%B2%B4.py)
 #### CHAPTER 07 이진 탐색
-* 부품 찾기 - [코드]
+* 부품 찾기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter07/%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0.py)
