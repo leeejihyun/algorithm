@@ -33,3 +33,7 @@
 * 두 배열의 원소 교체 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter06/%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C-%EA%B5%90%EC%B2%B4.py)
 #### CHAPTER 07 이진 탐색
 * 부품 찾기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part02/chapter07/%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0.py)
+### PART 03 알고리즘 유형별 기출문제
+#### CHAPTER 13 DFS/BFS 문제
+* 특정 거리의 도시 찾기 - [코드](https://github.com/leeejihyun/algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/part03/chapter13/%ED%8A%B9%EC%A0%95-%EA%B1%B0%EB%A6%AC%EC%9D%98-%EB%8F%84%EC%8B%9C-%EC%B0%BE%EA%B8%B0.py)
+* 연구소
