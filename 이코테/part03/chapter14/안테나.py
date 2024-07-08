@@ -6,10 +6,8 @@ houses.sort()
 
 # 가운데만 탐색
 if len(houses) % 2 == 1:
-  answer = 0
   mid = len(houses) // 2 - 1
-  for house in houses:
-    answer += abs(houses[mid] - house)
+  print(mid)
 else:
   answer_1, answer_2 = 0, 0
   mid_1 = len(houses) // 2 - 1
